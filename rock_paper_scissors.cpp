@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 char getComputerMove() {
     srand(time(NULL));
     int num = rand()%3;
